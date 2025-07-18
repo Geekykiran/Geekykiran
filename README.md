@@ -3,7 +3,7 @@
 
 - 🌱 I’m building web apps with **MERN Stack, Spring Boot, AWS & Generative AI** <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com) -->
 - 💬 Ask me about **ReactJS, JavaScript, MongoDB,Express, MySQL, or anything tech**
-- 📫 How to reach me: **geekykiran280@example.com**
+- 📫 How to reach me: **geekykiran280@gmail.com**
 - ⚡ Fun fact: I love debugging more than coding 😄
 
 ---
