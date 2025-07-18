@@ -2,7 +2,7 @@
 <h3 align="center">Also known as <strong>GeekyKiran</strong> — a passionate Full Stack Developer and Tech Enthusiast</h3>
 
 - 🌱 I’m building web apps with **MERN Stack, Spring Boot, AWS & Generative AI** <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com) -->
-- 💬 Ask me about **ReactJS, JavaScript, MongoDB, MySQL, or anything tech**
+- 💬 Ask me about **ReactJS, JavaScript, MongoDB,Express, MySQL, or anything tech**
 - 📫 How to reach me: **geekykiran280@example.com**
 - ⚡ Fun fact: I love debugging more than coding 😄
 
@@ -36,7 +36,7 @@
   🧠 Features: User auth, task categories, filtering, reminders, mobile responsive
 
 - 🔗 [Product Management Dashboard](https://github.com/Geekykiran/gadgets-products-cart)  
-  🛒 React + Tailwind CSS  
+  🛒 React + Tailwind CSS + Mock API backend(live on render.com)
   ✨ Features: Edit/delete functionality with animations, Framer Motion, skeleton loaders
 
 - 🔗 [Responsive Calendar App](https://github.com/Geekykiran/calendar-app)  
