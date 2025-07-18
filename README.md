@@ -49,8 +49,9 @@
 ### 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/saikiranng/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:geekykiran280@gmail.com">
+<!--   <a href="mailto:geekykiran280@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-</a>
+</a> -->
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:geekykiran280@gmail.com)
 
 </p>
