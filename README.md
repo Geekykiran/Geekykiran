@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikiran</h1>
-<h3 align="center">A passionate Full Stack Developer and Tech Enthusiast</h3>
+<h3 align="center">Also known as <strong>GeekyKiran</strong> — a passionate Full Stack Developer and Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN Stack, Spring Boot, AWS & Generative AI**
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com) -->
